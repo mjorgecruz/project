@@ -1,3 +1,5 @@
+![project](https://github.com/mjorgecruz/project_mechanical/blob/main/project.png)
+
 # Initiation to Project
 
 This project was developed for an university class where the principles of mechanical design and project studied on other subjects were to be implemented in a real setting.</br>
